@@ -20,7 +20,7 @@ Follow the steps to set up the environment:
     python3 setup.py build develop
 
 ## Dataset
-Download the [pre-processed]() data for the .npy data files in file prepare_data/
+Download the [pre-processed](https://drive.google.com/file/d/1rZFcgEqDENsiweOnBVLc_deeQVN9CHRM/view?usp=drive_link) data for the .npy data files in file prepare_data/
 
 ## Quick Start
 #### Train on the Table/Chair/Lamp category:
